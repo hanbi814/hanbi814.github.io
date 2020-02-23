@@ -1,0 +1,32 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  justify-content: space-evenly;
+  margin-top: 1rem;
+  font-family: cursive;
+  color: green;
+}
+
+.pagination {
+  margin-top: 2rem;
+  font-family: cursive;
+}
+
+.header {
+  display: flex;
+}
+
+.navbar {
+  font-family: cursive;
+  color: slateblue;
+}
+
+.jumbotron {
+  font-family: cursive;
+  color: green;
+}
+
+.main {
+  background-color: slateblue;
+  height: 100%;
+}
